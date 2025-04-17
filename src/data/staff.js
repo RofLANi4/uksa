@@ -5,7 +5,7 @@ const staff = [
     name: "Дмитро Валеріович",
     position: "Головний тренер",
     birthDate: "22.12.1984",
-    photo: "public/images/staff/Chirkal_D.jpg",
+    photo: "images/staff/Chirkal_D.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const staff = [
     name: "Олександр Вікторович",
     position: "Тренер воротарів",
     birthDate: "10.05.1986",
-    photo: "public/images/staff/Bandura_O.jpg",
+    photo: "images/staff/Bandura_O.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const staff = [
     name: "Антон Миколайович",
     position: "Масажист",
     birthDate: "31.01.2002",
-    photo: "public/images/staff/Kuzmenko_A.jpg",
+    photo: "images/staff/Kuzmenko_A.jpg",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const staff = [
     name: "Роман Сергійович",
     position: "Адміністратор",
     birthDate: "12.03.1988",
-    photo: "public/images/staff/Grechka_R.jpg",
+    photo: "images/staff/Grechka_R.jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const staff = [
     name: "Олександр Сергійович",
     position: "Асистент головного тренера",
     birthDate: "03.11.1984",
-    photo: "public/images/staff/Lomko_O.jpg",
+    photo: "images/staff/Lomko_O.jpg",
   },
 ];
 
