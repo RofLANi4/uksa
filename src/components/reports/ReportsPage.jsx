@@ -12,7 +12,7 @@ const ReportsPage = () => {
         {reports.map((report) => (
           <div key={report.id} className="col-md-6 col-lg-4">
             <a
-              href={process.env.PUBLIC_URL + report.file}
+              href={process.env.PUBLIC_URL + "/pdfs/" + report.file}
               download
               target="_blank"
               rel="noopener noreferrer"
