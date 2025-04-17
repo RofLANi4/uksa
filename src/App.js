@@ -1,21 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import PlayersList from "./components/players/PlayerList";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Аккаунт СКУТИН</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <PlayersList />
     </div>
   );
 }
