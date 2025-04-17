@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/uksa/static/css/main.722eafe8.css",
-    "main.js": "/uksa/static/js/main.5f833cc2.js",
+    "main.js": "/uksa/static/js/main.6e1d271f.js",
     "static/js/453.e8781a5d.chunk.js": "/uksa/static/js/453.e8781a5d.chunk.js",
     "static/media/stadium.jpg": "/uksa/static/media/stadium.2f5126e1f284534e4dc0.jpg",
     "static/media/Емблема_ФК_ЮКСА_Київ.svg.webp": "/uksa/static/media/Емблема_ФК_ЮКСА_Київ.svg.4606dce79175058fded5.webp",
     "index.html": "/uksa/index.html",
     "main.722eafe8.css.map": "/uksa/static/css/main.722eafe8.css.map",
-    "main.5f833cc2.js.map": "/uksa/static/js/main.5f833cc2.js.map",
+    "main.6e1d271f.js.map": "/uksa/static/js/main.6e1d271f.js.map",
     "453.e8781a5d.chunk.js.map": "/uksa/static/js/453.e8781a5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.722eafe8.css",
-    "static/js/main.5f833cc2.js"
+    "static/js/main.6e1d271f.js"
   ]
 }
